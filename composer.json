@@ -1,5 +1,5 @@
 {
-    "name": "visualarts/hsphp",
+    "name": "konnosena/hsphp",
     "description": "Client library for MySQL HandlerSocket extension.",
     "license": "MIT",
     "authors": [
